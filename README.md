@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/product-preview-card-component-3jOq2B9inL)
 - Live Site URL: [live site URL](https://shereefhamed.github.io/product-card/)
 
 ## My process
